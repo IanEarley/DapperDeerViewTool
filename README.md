@@ -20,7 +20,9 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+```ruby
+DapperDeerViewTool::Renderer.copyright 'Ian Earley', 'All rights reserved'
+```
 
 ## Development
 
